@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DylanLetters</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="guess_what">Guess What?</string>
+    <string name="what">What?</string>
+    <string name="thatswhat">I LOVE YOU!!!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dylan_title">Hey Dylan!</string>
+    <string name="noseriously">No...seriously...</string>
+    <string name="title_activity_key_board">KeyBoardActivity</string>
+    <string name="aString">a</string>
+    <string name="bString">b</string>
+    <string name="cString">c</string>
+    <string name="dString">d</string>
+    <string name="eString">e</string>
+    <string name="fString">f</string>
+    <string name="gString">g</string>
+    <string name="hString">h</string>
+    <string name="iString">i</string>
+    <string name="jString">j</string>
+    <string name="kString">k</string>
+    <string name="lString">l</string>
+    <string name="mString">m</string>
+    <string name="nString">n</string>
+    <string name="oString">o</string>
+    <string name="pString">p</string>
+    <string name="qString">q</string>
+    <string name="rString">r</string>
+    <string name="sString">s</string>
+    <string name="tString">t</string>
+    <string name="uString">u</string>
+    <string name="vString">v</string>
+    <string name="wString">w</string>
+    <string name="xString">x</string>
+    <string name="yString">y</string>
+    <string name="zString">z</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Symbols</string>
+    <string name="title_section1">Keys</string>
+    <string name="title_activity_symbols">SymbolsActivity</string>
+    <string name="title_activity_dylan_keyboard">DylanLetters</string>
+    <string name="commaString">,</string>
+    <string name="periodString">.</string>
+    <string name="exclamationString">!</string>
+    <string name="quoteString">&quot;</string>
+    <string name="dollarString">$</string>
+    <string name="percentString">%</string>
+    <string name="plusString">+</string>
+    <string name="minusString">-</string>
+    <string name="equalString">=</string>
+    <string name="slashString">/</string>
+    <string name="blackSlashString">\</string>
+    <string name="colonString">:</string>
+    <string name="semiColonString">;</string>
+    <string name="oneString">1</string>
+    <string name="twoString">2</string>
+    <string name="threeString">3</string>
+    <string name="fourString">4</string>
+    <string name="fiveString">5</string>
+    <string name="sixString">6</string>
+    <string name="sevenString">7</string>
+    <string name="eightString">8</string>
+    <string name="nineString">9</string>
+    <string name="zeroString">0</string>
+    <string name="questionMarkString">_?</string>
+    <string name="backspaceString">&lt;-</string>
+    <string name="enterString">Enter</string>
+    <string name="spaceString">Space</string>
+    <string name="testString">Test</string>
+    <string name="editString">Edit</string>
+    <string name="addString">Add</string>
+    <string name="deleteString">Delete</string>
+    <string name="title_activity_settings">Set Connection and Font Preferences</string>
+    <string name="menu_keyboard">Keyboard</string>
+    <string name="no_host_found">No Host has been configured for this device</string>
+    <string name="no_port_found">No Port has been configured for this device</string>
+    <string name="font_name">Select Font</string>
+    <string name="font_size">Select Font Size</string>
+    <string-array name="font_name_array">
+        <item>Normal</item>
+        <item>Sans</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+        <string name="whiteSpace">" "</string>
+
+</resources>

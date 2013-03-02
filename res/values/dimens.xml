@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="buttonPadding">10dp</dimen>
+    <dimen name="buttonFontSize">50sp</dimen>
+    <dimen name="minButtonWidth">200dp</dimen>
+    <dimen name="minButtonHeight">100dp</dimen>
+    <dimen name="buttonFontSizeLand">50sp</dimen>
+    <dimen name="buttonFontSizeEnter">30sp</dimen>
+    <dimen name="buttonFontSizeSpace">30sp</dimen>
+    <dimen name="buttonPaddingSpace">10dp</dimen>
+</resources>
